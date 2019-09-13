@@ -41,7 +41,7 @@ There are 3 interfaces:
 
 ### Running locally
 1. clone the project using the command<br>
-``git clone git@github.com:Rishabh04-02/Elective-manager.git
+``https://github.com/Shreyashin/Elective-Manager.git
 ``
 <br>OR <br>
 Download it by clicking [here](https://github.com/Rishabh04-02/Elective-manager/archive/master.zip)
